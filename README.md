@@ -1,19 +1,14 @@
-Hi, I'm Martins👋
-Frontend Developer.
+Hi, I'm Martins — Frontend Developer 🚀
+I help startups and small businesses turn Figma designs into fast, responsive websites that convert.
 
-I build fast, responsive websites that help small businesses grow.
+**What I build:**
+✅ Landing Pages that Convert
+✅ Figma to HTML/CSS/JS - Pixel Perfect  
+✅ Fast, SEO-friendly & Mobile First
 
-🚀 What I do:
-- Landing Pages & Business Websites
-- HTML | CSS | JavaScript | GitHub
-- Clean design, fast loading
+**Tech Stack:** HTML5 | CSS3 | JavaScript | Tailwind | GitHub
 
-🔭 Currently: Building projects to help businesses in the world & beyond get online
-🌱 Learning: Advanced JavaScript & AI Tools
-💼 Open for freelance work - Let's build your website!
+🌍 Available for freelance worldwide - Let's ship your MVP!
+📫 Let's work: [Put your LinkedIn or X link here]
 
-📫 Connect with me:
-- Check my repos below 👇
-- Available for collaborations
-
-"I code it clean!"
+> Building products that convert visitors to customers.
