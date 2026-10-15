@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Martins Agbo 👋
+Frontend Developer from Enugu, Nigeria 🇳🇬
 
-<!--
-**Martins2442/Martins2442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build fast, responsive websites that help small businesses grow.
 
-Here are some ideas to get you started:
+🚀 What I do:
+- Landing Pages & Business Websites
+- HTML | CSS | JavaScript | GitHub
+- Clean design, fast loading
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently: Building projects to help businesses in Warri & beyond get online
+🌱 Learning: Advanced JavaScript & AI Tools
+💼 Open for freelance work - Let's build your website!
+
+📫 Connect with me:
+- Check my repos below 👇
+- Available for collaborations
+
+> "From Nigeria to the world - I code it clean!"
